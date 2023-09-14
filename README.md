@@ -23,5 +23,5 @@ https://appetize.io/app/s5q4ngh6jst5fgvbv7u6qufibm?device=pixel4&osVersion=11.0&
 
  ## Screens
 
-![new](https://github.com/Phillip4reall/cvapp/assets/109076493/3eb1d50f-8a0b-40a8-ace5-1b8054d09ff5)
-![new2](https://github.com/Phillip4reall/cvapp/assets/109076493/69cc89ef-ff46-484f-8fd3-e5ea79d7c1e1)
+![new](https://github.com/Phillip4reall/Cvtask/assets/109076493/0f95385b-2167-4c76-a671-ddc164bd2988)
+![new2](https://github.com/Phillip4reall/Cvtask/assets/109076493/1b9f3a1d-6ed9-4cc9-a94a-08796ca75e50)
